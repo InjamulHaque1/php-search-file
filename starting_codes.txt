@@ -1,0 +1,6 @@
+1. composer create-project laravel/laravel crud_app
+2. cd crud_app
+3. php artisan serve
+4. edit env
+5. php artisan make:Controller UserController
+5. php artisan make:model Product -m
